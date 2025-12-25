@@ -3,25 +3,53 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi,+I%27m+Soban+Saeed;Electrical+%26+Biomedical+Engineering;Machine+Learning+%7C+Signal+Processing+%7C+Health+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=2F80ED&center=true&vCenter=true&width=720&lines=Hi,+I%27m+Soban+Saeed;Electrical+%26+Biomedical+Engineering;Machine+Learning+%7C+Signal+Processing+%7C+Health+AI" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I am **Soban Saeed**, an Electrical Engineering graduate with a strong focus on **biomedical signal processing, machine learning, and AI-driven analysis of physiological and multimodal data**.
+I am **Soban Saeed**, an Electrical Engineering graduate with a focus on **biomedical signal processing, machine learning, and AI-based analysis of physiological and multimodal data**.
 
-My work integrates **theoretical foundations with applied system development**, spanning biosignal analytics, anomaly detection, computer vision, and data-driven modeling for healthcare and human-centric applications.
+My work combines **engineering fundamentals with data-driven methods**, covering biosignals, computer vision, and intelligent healthcare applications.
 
 ---
 
 ## 🧠 Current Focus
 
-- Machine learning and deep learning for physiological signal analysis  
-- ECG, EEG, and multimodal health-related data modeling  
-- Signal processing pipelines for biomedical and wearable systems  
-- Robust inference methods for real-world, noisy data  
+- Biomedical signal analysis (EEG, ECG, physiological data)  
+- Machine learning and deep learning models  
+- Signal processing for health-related systems  
+- Multimodal and real-world data modeling  
+
+---
+
+## 📌 Selected Projects
+
+- **BCI-Enhanced Stress Management System**  
+  – EEG-based stress analysis using signal processing and CNN models  
+  🔗 https://github.com/shizu75/BCI-Enhanced-Stress-Management-System
+
+- **Physiological Stress Detection (ML)**  
+  – Stress classification using extracted physiological features  
+  🔗 https://github.com/shizu75/Binary-Stress-Detection-Using-Physiological-Feature-Analysis
+
+- **ECG Anomaly Detection (Autoencoder)**  
+  – Deep learning-based detection of abnormal ECG patterns  
+  🔗 https://github.com/shizu75/ECG-Anomaly-Detection-using-Autoencoder-Deep-Learning
+
+- **Breast Cancer Classification (SVM)**  
+  – Machine learning classification of clinical breast cancer data  
+  🔗 https://github.com/shizu75/Breast-Cancer-Classification-using-Support-Vector-Machine-SVM
+
+- **Multimodal Facial Aesthetics Assessment**  
+  – Facial analysis using deep learning and geometric features  
+  🔗 https://github.com/shizu75/Multimodal-Facial-Aesthetics-Assessment-Framework-with-Deep-Learning-and-Geometric-Modeling
+
+- **Prompt Injection Detection (NLP)**  
+  – Detection of malicious prompts using NLP and transformers  
+  🔗 https://github.com/shizu75/Prompt-Injection-Detection-using-Classical-NLP-and-Transformer-Models
 
 ---
 
@@ -75,19 +103,9 @@ My work integrates **theoretical foundations with applied system development**, 
 
 ---
 
-## 📌 Selected Projects (Biomedical & AI)
+## 🌐 Portfolio & Profiles
 
-- **BCI-Enhanced Stress Management System** — EEG-based stress analysis  
-- **Physiological Stress Detection** — ML on biosignal features  
-- **ECG Anomaly Detection** — Autoencoder-based deep learning  
-- **Breast Cancer Classification** — SVM-based clinical modeling  
-- **Multimodal Facial Aesthetics Assessment** — Deep learning & geometry  
-- **Prompt Injection Detection** — Classical NLP + Transformers  
-
----
-
-## 📫 Academic & Professional Profiles
-
+- **Portfolio:** https://shizu75.github.io/sobansaeed.github.io  
 - **ORCID:** https://orcid.org/0009-0006-7279-9714  
 - **LinkedIn:** https://www.linkedin.com/in/soban-saeed-20836825a  
 
@@ -95,4 +113,16 @@ My work integrates **theoretical foundations with applied system development**, 
 
 ## 📊 GitHub Activity
 
-![](https://github-readme-stats.vercel.app/api?username=shizu75&show_icons=true&theme=blueberry)
+![](https://github-readme-stats.vercel.app/api?username=shizu75&show_icons=true&theme=blueberry&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shizu75&theme=blueberry&hide_border=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=shizu75&theme=react-dark&hide_border=true)
+
+---
+
+## 🟡 Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
