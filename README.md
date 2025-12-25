@@ -9,7 +9,8 @@
 <p align="center">
   <img src="soban.jpeg" 
        alt="Soban working on a laptop illustration" 
-       width="900"/>
+       width="900"
+    height = "500"/>
 </p>
 
 ---
