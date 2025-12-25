@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=2F80ED&center=true&vCenter=true&width=720&lines=Hi,+I%27m+Soban+Saeed;Electrical+%26+Biomedical+Engineering;AI+%7C+Embedded+Systems+%7C+Signal+Processing" />
 </p>
 
+<p align="center">
+  <img src="soban.jpeg" 
+       alt="Soban working on a laptop illustration" 
+       width="900"/>
+</p>
 
 ---
 
