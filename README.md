@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=2F80ED&center=true&vCenter=true&width=720&lines=Hi,+I%27m+Soban+Saeed;Electrical+%26+Biomedical+Engineering;AI+%7C+Embedded+Systems+%7C+Signal+Processing" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGR0OWk4dTRzb2ZkbmJ2MTRkN2R4bWFwdnlqd2x6b3R2M3E1Z3p6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif" width="140" />
-</p>
 
 ---
 
