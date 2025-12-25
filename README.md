@@ -9,7 +9,7 @@
 <p align="center">
   <img src="soban.jpeg" 
        alt="Soban working on a laptop illustration" 
-       width="600"/>
+       width="450"/>
 </p>
 
 ---
