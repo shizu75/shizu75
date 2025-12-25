@@ -3,25 +3,29 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=2F80ED&center=true&vCenter=true&width=720&lines=Hi,+I%27m+Soban+Saeed;Electrical+%26+Biomedical+Engineering;Machine+Learning+%7C+Signal+Processing+%7C+Health+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=2F80ED&center=true&vCenter=true&width=720&lines=Hi,+I%27m+Soban+Saeed;Electrical+%26+Biomedical+Engineering;AI+%7C+Embedded+Systems+%7C+Signal+Processing" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGR0OWk4dTRzb2ZkbmJ2MTRkN2R4bWFwdnlqd2x6b3R2M3E1Z3p6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif" width="140" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I am **Soban Saeed**, an Electrical Engineering graduate with a focus on **biomedical signal processing, machine learning, and AI-based analysis of physiological and multimodal data**.
-
-My work combines **engineering fundamentals with data-driven methods**, covering biosignals, computer vision, and intelligent healthcare applications.
+I am **Soban Saeed**, an Electrical Engineering graduate with broad interests spanning **biomedical engineering, embedded systems, signal processing, and application development**.  
+My work combines **electronics and embedded design with artificial intelligence and software-based solutions**, focusing on practical, data-driven engineering applications.
 
 ---
 
 ## 🧠 Current Focus
 
-- Biomedical signal analysis (EEG, ECG, physiological data)  
-- Machine learning and deep learning models  
-- Signal processing for health-related systems  
-- Multimodal and real-world data modeling  
+- Embedded systems design and hardware–software integration  
+- Biomedical and physiological data analysis  
+- Machine learning and AI-based modeling  
+- Signal processing for real-world systems  
+- Application development for intelligent solutions  
 
 ---
 
@@ -125,4 +129,10 @@ My work combines **engineering fundamentals with data-driven methods**, covering
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  Thank you for taking the time to visit my GitHub profile.
 </p>
